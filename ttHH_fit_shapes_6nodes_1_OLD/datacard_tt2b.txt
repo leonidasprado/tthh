@@ -1,0 +1,23 @@
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * * ttHH_predict_ge4j_ge3t.root $CHANNEL/$PROCESS $CHANNEL/$PROCESS_$SYSTEMATIC
+shapes ttHH4b * ttHH_predict_ge4j_ge3t.root $CHANNEL/$PROCESS $CHANNEL/$PROCESS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          tt2b_node
+observation  -1
+--------------------------------------------------------------------------------
+bin                                  tt2b_node       tt2b_node       tt2b_node       tt2b_node       tt2b_node       tt2b_node
+process                              ttbb            tt2b            ttb             ttcc            ttlf            ttHH4b
+process                              1               2               3               4               5               0
+rate                                 -1             -1              -1              -1              -1           -1
+--------------------------------------------------------------------------------
+lumi_13TeV                   lnN     1.023           1.023           1.023           1.023           1.023           1.023
+JES                          shape   1               1               1               1               1               1
+JER                          shape   1               1               1               1               1               1
+QCDscale_ttHH                lnN     -               -               -               -               -           0.957/1.015
+QCDscale_ttbar               lnN     0.96/1.02       0.96/1.02       0.96/1.02       0.96/1.02       0.96/1.02   -
+pdf_gg                       lnN     1.04            1.04            1.04            1.04            1.04        -
+pdf_Higgs_ttHH               lnN     -               -               -               -               -           1.032
+

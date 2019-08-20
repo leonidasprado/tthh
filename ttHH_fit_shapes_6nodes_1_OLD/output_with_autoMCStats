@@ -1,0 +1,901 @@
+Channel ch1 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch1
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          1.266642        0.383145        total sum                     
+0          1.266605        0.383145        excluding marked processes    
+0          11.000000       3.316625        Unweighted events, alpha=0.115149
+  => Total parameter prop_binch1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          29.478201       1.987801        total sum                     
+1          29.477610       1.987801        excluding marked processes    
+1          220.000000      14.832397       Unweighted events, alpha=0.133992
+  => Total parameter prop_binch1_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          117.788699      4.098560        total sum                     
+2          117.785955      4.098560        excluding marked processes    
+2          826.000000      28.740216       Unweighted events, alpha=0.142601
+  => Total parameter prop_binch1_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          198.590264      5.351777        total sum                     
+3          198.584359      5.351777        excluding marked processes    
+3          1377.000000     37.107951       Unweighted events, alpha=0.144220
+  => Total parameter prop_binch1_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          249.090346      6.082462        total sum                     
+4          249.081986      6.082462        excluding marked processes    
+4          1677.000000     40.951190       Unweighted events, alpha=0.148533
+  => Total parameter prop_binch1_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          246.780809      6.041534        total sum                     
+5          246.770504      6.041534        excluding marked processes    
+5          1668.000000     40.841156       Unweighted events, alpha=0.147950
+  => Total parameter prop_binch1_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          231.834235      5.835224        total sum                     
+6          231.822205      5.835224        excluding marked processes    
+6          1578.000000     39.724048       Unweighted events, alpha=0.146916
+  => Total parameter prop_binch1_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          235.006736      5.865392        total sum                     
+7          234.993471      5.865392        excluding marked processes    
+7          1605.000000     40.062451       Unweighted events, alpha=0.146422
+  => Total parameter prop_binch1_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          208.158760      5.475798        total sum                     
+8          208.144558      5.475798        excluding marked processes    
+8          1445.000000     38.013156       Unweighted events, alpha=0.144055
+  => Total parameter prop_binch1_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          206.055258      5.505897        total sum                     
+9          206.040672      5.505897        excluding marked processes    
+9          1400.000000     37.416574       Unweighted events, alpha=0.147182
+  => Total parameter prop_binch1_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         178.980830      5.076188        total sum                     
+10         178.965395      5.076188        excluding marked processes    
+10         1243.000000     35.256205       Unweighted events, alpha=0.143991
+  => Total parameter prop_binch1_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         169.245860      4.947832        total sum                     
+11         169.229994      4.947832        excluding marked processes    
+11         1170.000000     34.205263       Unweighted events, alpha=0.144655
+  => Total parameter prop_binch1_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         164.518566      4.861520        total sum                     
+12         164.502651      4.861520        excluding marked processes    
+12         1145.000000     33.837849       Unweighted events, alpha=0.143684
+  => Total parameter prop_binch1_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         149.509611      4.619982        total sum                     
+13         149.492680      4.619982        excluding marked processes    
+13         1047.000000     32.357379       Unweighted events, alpha=0.142798
+  => Total parameter prop_binch1_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         131.037897      4.243252        total sum                     
+14         131.020435      4.243252        excluding marked processes    
+14         953.000000      30.870698       Unweighted events, alpha=0.137500
+  => Total parameter prop_binch1_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         122.698969      4.157213        total sum                     
+15         122.680993      4.157213        excluding marked processes    
+15         871.000000      29.512709       Unweighted events, alpha=0.140871
+  => Total parameter prop_binch1_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         118.995102      4.064115        total sum                     
+16         118.977207      4.064115        excluding marked processes    
+16         857.000000      29.274562       Unweighted events, alpha=0.138851
+  => Total parameter prop_binch1_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         113.349567      3.983485        total sum                     
+17         113.331112      3.983485        excluding marked processes    
+17         809.000000      28.442925       Unweighted events, alpha=0.140111
+  => Total parameter prop_binch1_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         88.645397       3.521700        total sum                     
+18         88.626926       3.521700        excluding marked processes    
+18         633.000000      25.159491       Unweighted events, alpha=0.140040
+  => Total parameter prop_binch1_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         85.013757       3.437265        total sum                     
+19         84.994997       3.437265        excluding marked processes    
+19         611.000000      24.718414       Unweighted events, alpha=0.139139
+  => Total parameter prop_binch1_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         84.519433       3.419225        total sum                     
+20         84.500453       3.419225        excluding marked processes    
+20         611.000000      24.718414       Unweighted events, alpha=0.138330
+  => Total parameter prop_binch1_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+21         78.245870       3.271830        total sum                     
+21         78.226835       3.271830        excluding marked processes    
+21         572.000000      23.916521       Unweighted events, alpha=0.136793
+  => Total parameter prop_binch1_bin21[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+22         72.734508       3.173015        total sum                     
+22         72.714945       3.173015        excluding marked processes    
+22         525.000000      22.912878       Unweighted events, alpha=0.138542
+  => Total parameter prop_binch1_bin22[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+23         65.586540       2.982216        total sum                     
+23         65.566757       2.982216        excluding marked processes    
+23         483.000000      21.977261       Unweighted events, alpha=0.135790
+  => Total parameter prop_binch1_bin23[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+24         61.799545       2.908891        total sum                     
+24         61.778921       2.908891        excluding marked processes    
+24         451.000000      21.236761       Unweighted events, alpha=0.137028
+  => Total parameter prop_binch1_bin24[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+25         61.020514       2.866944        total sum                     
+25         60.999445       2.866944        excluding marked processes    
+25         453.000000      21.283797       Unweighted events, alpha=0.134703
+  => Total parameter prop_binch1_bin25[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+26         55.437701       2.710591        total sum                     
+26         55.415885       2.710591        excluding marked processes    
+26         418.000000      20.445048       Unweighted events, alpha=0.132626
+  => Total parameter prop_binch1_bin26[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+27         46.755490       2.457477        total sum                     
+27         46.732615       2.457477        excluding marked processes    
+27         362.000000      19.026298       Unweighted events, alpha=0.129159
+  => Total parameter prop_binch1_bin27[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+28         40.537668       2.296882        total sum                     
+28         40.512892       2.296882        excluding marked processes    
+28         311.000000      17.635192       Unweighted events, alpha=0.130346
+  => Total parameter prop_binch1_bin28[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+29         37.861759       2.214838        total sum                     
+29         37.836905       2.214838        excluding marked processes    
+29         292.000000      17.088007       Unweighted events, alpha=0.129664
+  => Total parameter prop_binch1_bin29[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+30         36.148671       2.154710        total sum                     
+30         36.121626       2.154710        excluding marked processes    
+30         281.000000      16.763055       Unweighted events, alpha=0.128643
+  => Total parameter prop_binch1_bin30[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+31         34.852692       2.080241        total sum                     
+31         34.824086       2.080241        excluding marked processes    
+31         280.000000      16.733201       Unweighted events, alpha=0.124474
+  => Total parameter prop_binch1_bin31[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+32         31.817374       2.012527        total sum                     
+32         31.787104       2.012527        excluding marked processes    
+32         249.000000      15.779734       Unweighted events, alpha=0.127781
+  => Total parameter prop_binch1_bin32[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+33         28.281945       1.910522        total sum                     
+33         28.249100       1.910522        excluding marked processes    
+33         219.000000      14.798649       Unweighted events, alpha=0.129141
+  => Total parameter prop_binch1_bin33[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+34         27.626604       1.880080        total sum                     
+34         27.591768       1.880080        excluding marked processes    
+34         215.000000      14.662878       Unweighted events, alpha=0.128496
+  => Total parameter prop_binch1_bin34[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+35         20.751870       1.618007        total sum                     
+35         20.713574       1.618007        excluding marked processes    
+35         164.000000      12.806248       Unweighted events, alpha=0.126536
+  => Total parameter prop_binch1_bin35[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+36         13.603965       1.315087        total sum                     
+36         13.562206       1.315087        excluding marked processes    
+36         106.000000      10.295630       Unweighted events, alpha=0.128339
+  => Total parameter prop_binch1_bin36[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+37         12.197262       1.243234        total sum                     
+37         12.152531       1.243234        excluding marked processes    
+37         96.000000       9.797959        Unweighted events, alpha=0.127055
+  => Total parameter prop_binch1_bin37[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+38         9.734650        1.084650        total sum                     
+38         9.668208        1.084650        excluding marked processes    
+38         79.000000       8.888194        Unweighted events, alpha=0.123223
+  => Total parameter prop_binch1_bin38[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+39         0.662757        0.225445        total sum                     
+39         0.622657        0.225445        excluding marked processes    
+39         8.000000        2.828427        Unweighted events, alpha=0.082845
+  => Total parameter prop_binch1_bin39[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel ch2 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch2
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          2.230426        0.533830        total sum                     
+0          2.230385        0.533830        excluding marked processes    
+0          17.000000       4.123106        Unweighted events, alpha=0.131202
+  => Total parameter prop_binch2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          32.523494       2.130088        total sum                     
+1          32.523000       2.130088        excluding marked processes    
+1          233.000000      15.264338       Unweighted events, alpha=0.139586
+  => Total parameter prop_binch2_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          144.509819      4.439007        total sum                     
+2          144.507561      4.439007        excluding marked processes    
+2          1060.000000     32.557641       Unweighted events, alpha=0.136330
+  => Total parameter prop_binch2_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          319.913811      6.579789        total sum                     
+3          319.908550      6.579789        excluding marked processes    
+3          2364.000000     48.620983       Unweighted events, alpha=0.135327
+  => Total parameter prop_binch2_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          456.646239      7.901105        total sum                     
+4          456.639227      7.901105        excluding marked processes    
+4          3340.000000     57.792733       Unweighted events, alpha=0.136720
+  => Total parameter prop_binch2_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          503.245279      8.268016        total sum                     
+5          503.236736      8.268016        excluding marked processes    
+5          3705.000000     60.868711       Unweighted events, alpha=0.135829
+  => Total parameter prop_binch2_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          469.734636      7.913111        total sum                     
+6          469.725716      7.913111        excluding marked processes    
+6          3524.000000     59.363288       Unweighted events, alpha=0.133296
+  => Total parameter prop_binch2_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          423.492441      7.450319        total sum                     
+7          423.483776      7.450319        excluding marked processes    
+7          3231.000000     56.841886       Unweighted events, alpha=0.131072
+  => Total parameter prop_binch2_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          347.113589      6.671138        total sum                     
+8          347.105289      6.671138        excluding marked processes    
+8          2707.000000     52.028838       Unweighted events, alpha=0.128228
+  => Total parameter prop_binch2_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          299.639357      6.166151        total sum                     
+9          299.631756      6.166151        excluding marked processes    
+9          2361.000000     48.590122       Unweighted events, alpha=0.126912
+  => Total parameter prop_binch2_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         252.321334      5.576706        total sum                     
+10         252.314249      5.576706        excluding marked processes    
+10         2047.000000     45.243784       Unweighted events, alpha=0.123264
+  => Total parameter prop_binch2_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         211.953612      5.112139        total sum                     
+11         211.947313      5.112139        excluding marked processes    
+11         1719.000000     41.460825       Unweighted events, alpha=0.123301
+  => Total parameter prop_binch2_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         173.658444      4.594226        total sum                     
+12         173.652508      4.594226        excluding marked processes    
+12         1429.000000     37.802116       Unweighted events, alpha=0.121524
+  => Total parameter prop_binch2_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         145.530160      4.186599        total sum                     
+13         145.524214      4.186599        excluding marked processes    
+13         1208.000000     34.756294       Unweighted events, alpha=0.120472
+  => Total parameter prop_binch2_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         122.942915      3.795592        total sum                     
+14         122.937644      3.795592        excluding marked processes    
+14         1049.000000     32.388269       Unweighted events, alpha=0.117200
+  => Total parameter prop_binch2_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         106.064013      3.520739        total sum                     
+15         106.059468      3.520739        excluding marked processes    
+15         907.000000      30.116441       Unweighted events, alpha=0.116939
+  => Total parameter prop_binch2_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         82.968721       3.104311        total sum                     
+16         82.964833       3.104311        excluding marked processes    
+16         714.000000      26.720778       Unweighted events, alpha=0.116203
+  => Total parameter prop_binch2_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         72.710611       2.881324        total sum                     
+17         72.707345       2.881324        excluding marked processes    
+17         637.000000      25.238859       Unweighted events, alpha=0.114145
+  => Total parameter prop_binch2_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         64.259471       2.674161        total sum                     
+18         64.256778       2.674161        excluding marked processes    
+18         577.000000      24.020824       Unweighted events, alpha=0.111368
+  => Total parameter prop_binch2_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         58.221149       2.537741        total sum                     
+19         58.219049       2.537741        excluding marked processes    
+19         526.000000      22.934690       Unweighted events, alpha=0.110687
+  => Total parameter prop_binch2_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         46.404899       2.231991        total sum                     
+20         46.403191       2.231991        excluding marked processes    
+20         432.000000      20.784610       Unweighted events, alpha=0.107419
+  => Total parameter prop_binch2_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+21         38.852513       2.039794        total sum                     
+21         38.851174       2.039794        excluding marked processes    
+21         363.000000      19.052559       Unweighted events, alpha=0.107032
+  => Total parameter prop_binch2_bin21[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+22         31.060729       1.793062        total sum                     
+22         31.059705       1.793062        excluding marked processes    
+22         300.000000      17.320508       Unweighted events, alpha=0.103536
+  => Total parameter prop_binch2_bin22[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+23         23.631824       1.575583        total sum                     
+23         23.630949       1.575583        excluding marked processes    
+23         225.000000      15.000000       Unweighted events, alpha=0.105030
+  => Total parameter prop_binch2_bin23[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+24         18.431878       1.350645        total sum                     
+24         18.431354       1.350645        excluding marked processes    
+24         186.000000      13.638182       Unweighted events, alpha=0.099096
+  => Total parameter prop_binch2_bin24[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+25         15.585105       1.260914        total sum                     
+25         15.584674       1.260914        excluding marked processes    
+25         153.000000      12.369317       Unweighted events, alpha=0.101863
+  => Total parameter prop_binch2_bin25[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+26         13.421725       1.161252        total sum                     
+26         13.421377       1.161252        excluding marked processes    
+26         134.000000      11.575837       Unweighted events, alpha=0.100162
+  => Total parameter prop_binch2_bin26[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+27         10.597504       1.014325        total sum                     
+27         10.597305       1.014325        excluding marked processes    
+27         109.000000      10.440307       Unweighted events, alpha=0.097225
+  => Total parameter prop_binch2_bin27[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+28         7.186117        0.799146        total sum                     
+28         7.185993        0.799146        excluding marked processes    
+28         81.000000       9.000000        Unweighted events, alpha=0.088717
+  => Total parameter prop_binch2_bin28[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+29         6.780200        0.791317        total sum                     
+29         6.780078        0.791317        excluding marked processes    
+29         73.000000       8.544004        Unweighted events, alpha=0.092879
+  => Total parameter prop_binch2_bin29[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+30         2.706478        0.470332        total sum                     
+30         2.706456        0.470332        excluding marked processes    
+30         33.000000       5.744563        Unweighted events, alpha=0.082014
+  => Total parameter prop_binch2_bin30[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+31         0.737283        0.246929        total sum                     
+31         0.737277        0.246929        excluding marked processes    
+31         9.000000        3.000000        Unweighted events, alpha=0.081920
+  => Total parameter prop_binch2_bin31[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel ch3 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch3
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          16.269475       1.439557        total sum                     
+0          16.269098       1.439557        excluding marked processes    
+0          128.000000      11.313708       Unweighted events, alpha=0.127105
+  => Total parameter prop_binch3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          351.205710      6.880343        total sum                     
+1          351.200590      6.880343        excluding marked processes    
+1          2605.000000     51.039201       Unweighted events, alpha=0.134820
+  => Total parameter prop_binch3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          1318.752695     13.273708       total sum                     
+2          1318.738434     13.273708       excluding marked processes    
+2          9870.000000     99.347874       Unweighted events, alpha=0.133612
+  => Total parameter prop_binch3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          1881.022500     15.795646       total sum                     
+3          1881.003632     15.795646       excluding marked processes    
+3          14181.000000    119.084004      Unweighted events, alpha=0.132644
+  => Total parameter prop_binch3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          1684.337461     14.843035       total sum                     
+4          1684.319412     14.843035       excluding marked processes    
+4          12877.000000    113.476870      Unweighted events, alpha=0.130802
+  => Total parameter prop_binch3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1269.077016     12.718245       total sum                     
+5          1269.062004     12.718245       excluding marked processes    
+5          9957.000000     99.784768       Unweighted events, alpha=0.127456
+  => Total parameter prop_binch3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          926.820074      10.769063       total sum                     
+6          926.809105      10.769063       excluding marked processes    
+6          7407.000000     86.063930       Unweighted events, alpha=0.125128
+  => Total parameter prop_binch3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          633.767332      8.823558        total sum                     
+7          633.759850      8.823558        excluding marked processes    
+7          5159.000000     71.826179       Unweighted events, alpha=0.122847
+  => Total parameter prop_binch3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          404.283398      6.997104        total sum                     
+8          404.278156      6.997104        excluding marked processes    
+8          3338.000000     57.775427       Unweighted events, alpha=0.121115
+  => Total parameter prop_binch3_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          253.735996      5.488411        total sum                     
+9          253.732916      5.488411        excluding marked processes    
+9          2137.000000     46.227697       Unweighted events, alpha=0.118735
+  => Total parameter prop_binch3_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         152.253963      4.225376        total sum                     
+10         152.252262      4.225376        excluding marked processes    
+10         1298.000000     36.027767       Unweighted events, alpha=0.117299
+  => Total parameter prop_binch3_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         92.381678       3.284022        total sum                     
+11         92.380727       3.284022        excluding marked processes    
+11         791.000000      28.124722       Unweighted events, alpha=0.116791
+  => Total parameter prop_binch3_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         50.557645       2.430217        total sum                     
+12         50.557223       2.430217        excluding marked processes    
+12         433.000000      20.808652       Unweighted events, alpha=0.116761
+  => Total parameter prop_binch3_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         22.221541       1.588127        total sum                     
+13         22.221325       1.588127        excluding marked processes    
+13         196.000000      14.000000       Unweighted events, alpha=0.113375
+  => Total parameter prop_binch3_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         11.165854       1.129881        total sum                     
+14         11.165756       1.129881        excluding marked processes    
+14         98.000000       9.899495        Unweighted events, alpha=0.113937
+  => Total parameter prop_binch3_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         3.587032        0.629098        total sum                     
+15         3.586998        0.629098        excluding marked processes    
+15         33.000000       5.744563        Unweighted events, alpha=0.108698
+  => Total parameter prop_binch3_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         1.690861        0.431476        total sum                     
+16         1.690848        0.431476        excluding marked processes    
+16         15.000000       3.872983        Unweighted events, alpha=0.112724
+  => Total parameter prop_binch3_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel ch4 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch4
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          2.104439        0.517217        total sum                     
+0          2.104393        0.517217        excluding marked processes    
+0          17.000000       4.123106        Unweighted events, alpha=0.123791
+  => Total parameter prop_binch4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          44.231435       2.395047        total sum                     
+1          44.230892       2.395047        excluding marked processes    
+1          341.000000      18.466185       Unweighted events, alpha=0.129711
+  => Total parameter prop_binch4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          204.912432      5.071435        total sum                     
+2          204.910722      5.071435        excluding marked processes    
+2          1633.000000     40.410395       Unweighted events, alpha=0.125482
+  => Total parameter prop_binch4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          566.293111      8.383514        total sum                     
+3          566.290249      8.383514        excluding marked processes    
+3          4563.000000     67.549981       Unweighted events, alpha=0.124105
+  => Total parameter prop_binch4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          941.150938      10.737882       total sum                     
+4          941.147713      10.737882       excluding marked processes    
+4          7682.000000     87.647019       Unweighted events, alpha=0.122514
+  => Total parameter prop_binch4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          966.970089      10.767038       total sum                     
+5          966.966633      10.767038       excluding marked processes    
+5          8065.000000     89.805345       Unweighted events, alpha=0.119897
+  => Total parameter prop_binch4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          885.114666      10.197515       total sum                     
+6          885.111549      10.197515       excluding marked processes    
+6          7534.000000     86.798618       Unweighted events, alpha=0.117483
+  => Total parameter prop_binch4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          769.101353      9.420835        total sum                     
+7          769.098373      9.420835        excluding marked processes    
+7          6665.000000     81.639451       Unweighted events, alpha=0.115394
+  => Total parameter prop_binch4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          620.186427      8.352272        total sum                     
+8          620.183784      8.352272        excluding marked processes    
+8          5514.000000     74.256313       Unweighted events, alpha=0.112475
+  => Total parameter prop_binch4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          521.284896      7.590079        total sum                     
+9          521.282898      7.590079        excluding marked processes    
+9          4717.000000     68.680419       Unweighted events, alpha=0.110512
+  => Total parameter prop_binch4_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         423.488680      6.791900        total sum                     
+10         423.487179      6.791900        excluding marked processes    
+10         3888.000000     62.353829       Unweighted events, alpha=0.108922
+  => Total parameter prop_binch4_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         305.249712      5.687482        total sum                     
+11         305.248709      5.687482        excluding marked processes    
+11         2880.000000     53.665631       Unweighted events, alpha=0.105989
+  => Total parameter prop_binch4_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         221.499282      4.808208        total sum                     
+12         221.498663      4.808208        excluding marked processes    
+12         2122.000000     46.065171       Unweighted events, alpha=0.104382
+  => Total parameter prop_binch4_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         136.426495      3.715432        total sum                     
+13         136.426087      3.715432        excluding marked processes    
+13         1348.000000     36.715120       Unweighted events, alpha=0.101207
+  => Total parameter prop_binch4_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         82.632963       2.853547        total sum                     
+14         82.632799       2.853547        excluding marked processes    
+14         839.000000      28.965497       Unweighted events, alpha=0.098490
+  => Total parameter prop_binch4_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         38.670436       1.933015        total sum                     
+15         38.670376       1.933015        excluding marked processes    
+15         400.000000      20.000000       Unweighted events, alpha=0.096676
+  => Total parameter prop_binch4_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         17.653038       1.294986        total sum                     
+16         17.652988       1.294986        excluding marked processes    
+16         186.000000      13.638182       Unweighted events, alpha=0.094909
+  => Total parameter prop_binch4_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         6.297069        0.754639        total sum                     
+17         6.297060        0.754639        excluding marked processes    
+17         70.000000       8.366600        Unweighted events, alpha=0.089958
+  => Total parameter prop_binch4_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         0.683244        0.243531        total sum                     
+18         0.683242        0.243531        excluding marked processes    
+18         8.000000        2.828427        Unweighted events, alpha=0.085406
+  => Total parameter prop_binch4_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel ch5 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch5
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          682.605104      9.675315        total sum                     
+0          682.596441      9.675315        excluding marked processes    
+0          4977.000000     70.547856       Unweighted events, alpha=0.137152
+  => Total parameter prop_binch5_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          3004.802993     20.439920       total sum                     
+1          3004.780876     20.439920       excluding marked processes    
+1          21611.000000    147.006803      Unweighted events, alpha=0.139040
+  => Total parameter prop_binch5_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          4752.757421     25.965874       total sum                     
+2          4752.737320     25.965874       excluding marked processes    
+2          33503.000000    183.038247      Unweighted events, alpha=0.141861
+  => Total parameter prop_binch5_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3680.719896     23.442284       total sum                     
+3          3680.710541     23.442284       excluding marked processes    
+3          24653.000000    157.012738      Unweighted events, alpha=0.149301
+  => Total parameter prop_binch5_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          1319.465634     14.462330       total sum                     
+4          1319.463276     14.462330       excluding marked processes    
+4          8324.000000     91.235958       Unweighted events, alpha=0.158513
+  => Total parameter prop_binch5_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          163.380614      5.274178        total sum                     
+5          163.380275      5.274178        excluding marked processes    
+5          960.000000      30.983867       Unweighted events, alpha=0.170188
+  => Total parameter prop_binch5_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          6.528473        1.109985        total sum                     
+6          6.528456        1.109985        excluding marked processes    
+6          35.000000       5.916080        Unweighted events, alpha=0.186528
+  => Total parameter prop_binch5_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel ch6 will use autoMCStats with settings: event-threshold=0, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binch6
+Poisson cut-off: 0
+Processes excluded for sums: ttHH4b
+============================================================
+Bin        Contents        Error           Notes                         
+0          1.233893        0.394223        total sum                     
+0          1.233882        0.394223        excluding marked processes    
+0          10.000000       3.162278        Unweighted events, alpha=0.123389
+  => Total parameter prop_binch6_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          19.911509       1.580069        total sum                     
+1          19.911220       1.580069        excluding marked processes    
+1          159.000000      12.609520       Unweighted events, alpha=0.125230
+  => Total parameter prop_binch6_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          159.301236      4.534769        total sum                     
+2          159.299988      4.534769        excluding marked processes    
+2          1234.000000     35.128336       Unweighted events, alpha=0.129093
+  => Total parameter prop_binch6_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          563.793855      8.492614        total sum                     
+3          563.791071      8.492614        excluding marked processes    
+3          4407.000000     66.385239       Unweighted events, alpha=0.127931
+  => Total parameter prop_binch6_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          1251.694606     12.706532       total sum                     
+4          1251.690029     12.706532       excluding marked processes    
+4          9704.000000     98.508883       Unweighted events, alpha=0.128987
+  => Total parameter prop_binch6_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1917.463375     15.732888       total sum                     
+5          1917.458385     15.732888       excluding marked processes    
+5          14854.000000    121.876987      Unweighted events, alpha=0.129087
+  => Total parameter prop_binch6_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          2373.377035     17.599358       total sum                     
+6          2373.372299     17.599358       excluding marked processes    
+6          18186.000000    134.855478      Unweighted events, alpha=0.130506
+  => Total parameter prop_binch6_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          2669.084024     18.757119       total sum                     
+7          2669.079742     18.757119       excluding marked processes    
+7          20248.000000    142.295467      Unweighted events, alpha=0.131820
+  => Total parameter prop_binch6_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          2718.228244     18.962155       total sum                     
+8          2718.224331     18.962155       excluding marked processes    
+8          20549.000000    143.349224      Unweighted events, alpha=0.132280
+  => Total parameter prop_binch6_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          2728.619981     18.973254       total sum                     
+9          2728.616604     18.973254       excluding marked processes    
+9          20682.000000    143.812378      Unweighted events, alpha=0.131932
+  => Total parameter prop_binch6_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         2716.109570     18.895060       total sum                     
+10         2716.106754     18.895060       excluding marked processes    
+10         20663.000000    143.746304      Unweighted events, alpha=0.131448
+  => Total parameter prop_binch6_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         2658.246596     18.651462       total sum                     
+11         2658.244301     18.651462       excluding marked processes    
+11         20313.000000    142.523682      Unweighted events, alpha=0.130864
+  => Total parameter prop_binch6_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         2560.352924     18.272389       total sum                     
+12         2560.351025     18.272389       excluding marked processes    
+12         19634.000000    140.121376      Unweighted events, alpha=0.130404
+  => Total parameter prop_binch6_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         2511.236572     18.013531       total sum                     
+13         2511.235052     18.013531       excluding marked processes    
+13         19435.000000    139.409469      Unweighted events, alpha=0.129212
+  => Total parameter prop_binch6_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         2428.248523     17.693107       total sum                     
+14         2428.247311     17.693107       excluding marked processes    
+14         18836.000000    137.244308      Unweighted events, alpha=0.128915
+  => Total parameter prop_binch6_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         2282.823692     17.117548       total sum                     
+15         2282.822647     17.117548       excluding marked processes    
+15         17785.000000    133.360414      Unweighted events, alpha=0.128357
+  => Total parameter prop_binch6_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         2043.926259     16.157907       total sum                     
+16         2043.925597     16.157907       excluding marked processes    
+16         16001.000000    126.495059      Unweighted events, alpha=0.127737
+  => Total parameter prop_binch6_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         1625.208235     14.369899       total sum                     
+17         1625.207799     14.369899       excluding marked processes    
+17         12791.000000    113.097303      Unweighted events, alpha=0.127059
+  => Total parameter prop_binch6_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         1041.892817     11.458289       total sum                     
+18         1041.892636     11.458289       excluding marked processes    
+18         8268.000000     90.928543       Unweighted events, alpha=0.126015
+  => Total parameter prop_binch6_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         565.157733      8.436784        total sum                     
+19         565.157615      8.436784        excluding marked processes    
+19         4487.000000     66.985073       Unweighted events, alpha=0.125954
+  => Total parameter prop_binch6_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         56.665331       2.643524        total sum                     
+20         56.665322       2.643524        excluding marked processes    
+20         459.000000      21.424285       Unweighted events, alpha=0.123454
+  => Total parameter prop_binch6_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+21         0.805885        0.331053        total sum                     
+21         0.805885        0.331053        excluding marked processes    
+21         6.000000        2.449490        Unweighted events, alpha=0.134314
+  => Total parameter prop_binch6_bin21[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+ <<< Combine >>> 
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 47.9009
+Expected  2.5%: r < 22.7051
+Expected 16.0%: r < 31.5800
+Expected 50.0%: r < 46.8750
+Expected 84.0%: r < 70.4176
+Expected 97.5%: r < 101.1260
+
+Done in 0.18 min (cpu), 0.19 min (real)
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+
+ --- FitDiagnostics ---
+Best fit r: 1  -13.7664/+21.2007  (68% CL)
+Done in 0.02 min (cpu), 0.02 min (real)
+diffNuisances run on fitDiagnostics.root, at 2019-08-14 13:39:54.329669 with the following options ... {'absolute_values': False, 'show_all_parameters': True, 'format': 'text', 'stol2': 0.5, 'pullDef': '', 'vtol': 0.3, 'stol': 0.1, 'plotfile': None, 'vtol2': 2.0, 'poi': 'r'}
+
+name                                              b-only fit            s+b fit         rho
+JER                                           * +0.00, 0.52*     * +0.00, 0.52*       +0.04
+JES                                           ! +0.00, 0.26!     ! +0.00, 0.26!       -0.08
+QCDscale_ttHH                                    +0.00, 0.99        +0.00, 0.99       -0.00
+QCDscale_ttbar                                * +0.00, 0.84*     * +0.00, 0.79*       +0.01
+lumi_13TeV                                       +0.00, 0.91        +0.00, 0.90       +0.00
+pdf_Higgs_ttHH                                   +0.00, 0.99        +0.00, 0.99       -0.00
+pdf_gg                                        * +0.00, 0.70*     * +0.00, 0.69*       +0.01
+prop_binch1_bin0                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch1_bin1                                 +0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch1_bin10                                +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin11                                +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin12                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin13                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin14                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin15                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin16                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin17                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin18                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin19                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin2                                 +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin20                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin21                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin22                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin23                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin24                                +0.00, 0.93        +0.00, 0.93       -0.02
+prop_binch1_bin25                                +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin26                                +0.00, 0.93        +0.00, 0.93       -0.02
+prop_binch1_bin27                                +0.00, 0.94        +0.00, 0.94       -0.02
+prop_binch1_bin28                                +0.00, 0.94        +0.00, 0.94       -0.02
+prop_binch1_bin29                                +0.00, 0.94        +0.00, 0.94       -0.02
+prop_binch1_bin3                                 +0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch1_bin30                                +0.00, 0.94        +0.00, 0.94       -0.03
+prop_binch1_bin31                                +0.00, 0.94        +0.00, 0.94       -0.03
+prop_binch1_bin32                                +0.00, 0.94        +0.00, 0.94       -0.03
+prop_binch1_bin33                                +0.00, 0.94        +0.00, 0.94       -0.04
+prop_binch1_bin34                                +0.00, 0.94        +0.00, 0.94       -0.04
+prop_binch1_bin35                                +0.00, 0.94        +0.00, 0.94       -0.05
+prop_binch1_bin36                                +0.00, 0.94        +0.00, 0.94       -0.06
+prop_binch1_bin37                                +0.00, 0.94        +0.00, 0.94       -0.08
+prop_binch1_bin38                                +0.01, 0.94        +0.00, 0.95       -0.12
+prop_binch1_bin39                                +0.01, 0.95        +0.00, 0.98       -0.23
+prop_binch1_bin4                                 +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin5                                 +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin6                                 +0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch1_bin7                                 +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch1_bin8                                 +0.00, 0.93        +0.00, 0.93       -0.01
+prop_binch1_bin9                                 +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch2_bin0                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch2_bin1                                 -0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch2_bin10                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin11                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin12                                +0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch2_bin13                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin14                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin15                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin16                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin17                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin18                                +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin19                                +0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch2_bin2                                 -0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch2_bin20                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin21                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin22                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin23                                +0.00, 0.95        +0.00, 0.95       +0.00
+prop_binch2_bin24                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin25                                +0.00, 0.95        +0.00, 0.95       +0.00
+prop_binch2_bin26                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin27                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch2_bin28                                +0.00, 0.95        +0.00, 0.95       +0.00
+prop_binch2_bin29                                +0.00, 0.95        +0.00, 0.95       +0.00
+prop_binch2_bin3                                 -0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch2_bin30                                -0.00, 0.96        +0.00, 0.96       -0.00
+prop_binch2_bin31                                -0.00, 0.96        +0.00, 0.96       +0.00
+prop_binch2_bin4                                 -0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch2_bin5                                 -0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch2_bin6                                 -0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch2_bin7                                 -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin8                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch2_bin9                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch3_bin0                                 +0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin1                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin10                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin11                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin12                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin13                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin14                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch3_bin15                                +0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin16                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch3_bin2                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin3                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch3_bin4                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch3_bin5                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin6                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin7                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin8                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch3_bin9                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin0                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch4_bin1                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin10                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin11                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin12                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin13                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin14                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin15                                -0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin16                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin17                                +0.00, 0.95        +0.00, 0.95       -0.00
+prop_binch4_bin18                                +0.00, 0.95        +0.00, 0.95       +0.00
+prop_binch4_bin2                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin3                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin4                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin5                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch4_bin6                                 -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch4_bin7                                 -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch4_bin8                                 -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch4_bin9                                 -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch5_bin0                                 -0.00, 0.93        +0.00, 0.93       +0.00
+prop_binch5_bin1                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch5_bin2                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch5_bin3                                 -0.00, 0.93        +0.00, 0.94       +0.01
+prop_binch5_bin4                                 -0.00, 0.93        +0.00, 0.93       +0.01
+prop_binch5_bin5                                 -0.00, 0.92        +0.00, 0.92       +0.00
+prop_binch5_bin6                                 -0.00, 0.91        +0.00, 0.91       +0.00
+prop_binch6_bin0                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin1                                 +0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin10                                -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch6_bin11                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin12                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin13                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin14                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin15                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin16                                -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin17                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin18                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin19                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin2                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin20                                -0.00, 0.94        +0.00, 0.94       -0.00
+prop_binch6_bin21                                +0.00, 0.93        +0.00, 0.93       -0.00
+prop_binch6_bin3                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch6_bin4                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin5                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch6_bin6                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch6_bin7                                 -0.00, 0.94        +0.00, 0.94       +0.01
+prop_binch6_bin8                                 -0.00, 0.94        +0.00, 0.94       +0.00
+prop_binch6_bin9                                 -0.00, 0.94        +0.00, 0.94       +0.00
+ <<< Combine >>> 
+>>> method used is Significance
+>>> random number generator seed is 123456
+
+ -- Significance -- 
+Significance: 0.0572917
+Done in 0.01 min (cpu), 0.01 min (real)
